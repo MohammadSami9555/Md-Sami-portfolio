@@ -1,16 +1,101 @@
-# React + Vite
+# 🚀 Mohammad Sami — Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **Frontend Developer Portfolio Website** built with **React + Vite** to showcase my projects, skills, education, and professional journey.
 
-Currently, two official plugins are available:
+## 🌟 Live Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **Portfolio:** [https://mohammadsami9555.github.io/portfolio/](https://mohammadsami9555.github.io/portfolio/)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# ✨ Features
 
-## Expanding the ESLint configuration
+* 🎨 Modern dark neon UI with green accent theme
+* 📱 Fully responsive design
+* ⚡ Built with React + Vite for fast performance
+* 🧩 Reusable component-based architecture
+* 🧠 Featured advanced frontend engineering projects
+* 📄 Resume download support
+* 📬 Contact section with direct email CTA
+* ✨ Smooth animations and premium card layouts
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+# 🛠️ Tech Stack
+
+* **React.js**
+* **Vite**
+* **CSS3**
+* **JavaScript (ES6+)**
+* **Responsive Design**
+* **Component-based Architecture**
+
+---
+
+# 📂 Project Structure
+
+```bash
+src/
+ ┣ assets/
+ ┣ components/
+ ┃ ┣ Navbar.jsx
+ ┃ ┣ Hero.jsx
+ ┃ ┣ Skills.jsx
+ ┃ ┣ Education.jsx
+ ┃ ┣ Projects.jsx
+ ┃ ┗ Contact.jsx
+ ┣ App.jsx
+ ┣ index.css
+ ┗ main.jsx
+```
+
+---
+
+# 💼 Featured Projects
+
+## 🚀 Frontend Engineering Highlights
+
+* GraphQL Blog Frontend
+* Next.js SSR News Dashboard
+* GSAP Product Landing Page
+* Optimized SSR + CDN Frontend
+
+---
+
+# ⚙️ Installation & Setup
+
+```bash
+# Clone repository
+git clone <your-repo-link>
+
+# Move into project folder
+cd my-portfolio
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+```
+
+---
+
+# 📬 Contact
+
+📧 **Email:** [mohammadsami9555@gmail.com](mailto:mohammadsami9555@gmail.com)
+💼 **GitHub:** [https://github.com/MohammadSami9555](https://github.com/MohammadSami9555)
+
+---
+
+# ⭐ Purpose
+
+This portfolio is designed to showcase:
+
+* frontend engineering skills
+* internship-ready proof of work
+* modern UI/UX capabilities
+* production-grade React architecture
+
+---
+
+

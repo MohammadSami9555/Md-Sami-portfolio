@@ -13,8 +13,8 @@ function Projects() {
       desc: "Premium landing page with smooth GSAP animations and micro interactions.",
     },
     {
-      title: "PlantVision AI",
-      desc: "AI-powered plant disease detection frontend with responsive modern UI.",
+      title: "Optimized SSR + CDN Frontend",
+      desc: "Production-grade SSR deployment with CDN optimization, caching, and ultra-fast performance delivery.",
     },
   ]
 
